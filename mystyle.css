@@ -1,0 +1,22 @@
+﻿body {
+    background-image: url("BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#para {
+    text-align: center;
+    color: gainsboro;
+    font-size: 40px;
+    margin-left: 20px;
+    border: medium solid aliceblue;
+    margin: 10px 300px;
+    padding: 25px 50px
+}
+div {
+    background: rgba(25, 25, 25, 0.3);
+    color: gainsboro;
+    text-align: center;
+    font-size: 25px;
+    margin: 10px 600px;
+    padding: 10px 25px
+}
